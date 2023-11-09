@@ -1,0 +1,17 @@
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\bin\Debug\exerclooping.exe.config
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\bin\Debug\exerclooping.exe
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\bin\Debug\exerclooping.pdb
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.csproj.AssemblyReference.cache
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.Properties.Resources.resources
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.csproj.GenerateResource.cache
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.csproj.CoreCompileInputs.cache
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.exe
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.pdb
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.frmprincipal.resources
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.frmdois.resources
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.frmtres.resources
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.frmquatro.resources
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.frmcinco.resources
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.frmSeis.resources
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.frmsete.resources
+T:\1DS\GUSTAVO GREIK E ARTUR ALBERTINI\c#\exerclooping\exerclooping\obj\Debug\exerclooping.frmoito.resources
